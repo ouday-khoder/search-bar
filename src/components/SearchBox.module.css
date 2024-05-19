@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    width: 800px;
+    margin: 4rem auto;
+}
+
+.input {
+    border: 2px solid tomato;
+    padding: .6rem;
+    border-radius: 10px;
+}
+
+.container h2 {
+    text-align: left;
+}
+
+.highlight {
+    background-color: yellow;
+}

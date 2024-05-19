@@ -20,7 +20,10 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+<<<<<<< HEAD
 This project searches for a keyword and highlights it once it is found.
+=======
+>>>>>>> c9269d8aec53f28dce98289c00cd337dd8c79c06
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -69,4 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 
+=======
+>>>>>>> c9269d8aec53f28dce98289c00cd337dd8c79c06

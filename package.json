@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "search-bar",
+=======
+  "name": "search-box",
+>>>>>>> c9269d8aec53f28dce98289c00cd337dd8c79c06
   "version": "0.1.0",
   "private": true,
   "dependencies": {
